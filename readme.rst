@@ -7,14 +7,14 @@ Existe o arquivo Insomnia_2022-01-05.json para testar os endpoints utilizando o 
 
 ## Instalando
 
-Obs.: É necessário antes de instalar este projeto, ter instalado e rodando os bancos de dados: 
+Obs.: É necessário antes de instalar este projeto, ter instalado e rodando os bancos de dados:
 * MySql (https://dev.mysql.com/downloads/installer/)
 
 Para instalá-lo em sua máquina faça os comandos a seguir:
 
 ``` bash
   git clone https://github.com/bmarquesn/nodejs_crud1
-  cd nodejs_crud1 (ir até o diretório onde foi colocado o projeto)
+  ir até o diretório onde foi colocado o projeto
   npm install
   npm start
 ```
