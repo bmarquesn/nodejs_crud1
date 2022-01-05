@@ -14,8 +14,11 @@ Para instalá-lo em sua máquina faça os comandos a seguir:
 
 ``` bash
   git clone https://github.com/bmarquesn/nodejs_crud1
+  
   ir até o diretório onde foi colocado o projeto
+  
   npm install
+  
   npm start
 ```
 
